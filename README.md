@@ -68,7 +68,6 @@ public/
 ### Installation
 
 ```bash
-git clone https://github.com/Ali-Sanati/awwwards-adidas.git
 cd awwwards-adidas
 npm install
 ```
