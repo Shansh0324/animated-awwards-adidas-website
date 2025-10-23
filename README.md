@@ -1,13 +1,5 @@
 # Awwwards-Winning 3D adidas Landing Page (Next.js + Three.js)
 
-
-<div style="display: flex; flex-direction: column; width: 100%; gap: 20px; align-items: center;"> 
-  <img src="https://github.com/user-attachments/assets/1d49ff99-c1a9-4495-9a56-f9c4ec38e346" alt="Live Demo" style="width: 100%; height: auto; max-width: 100%; border-radius: 8px;" /> 
-  <img src="https://github.com/user-attachments/assets/80a9dabc-71b7-48c9-a106-44e0f8748b34" alt="Main Model" style="width: 100%; height: auto; max-width: 100%; border-radius: 8px;" /> 
-  <img src="https://github.com/user-attachments/assets/65c17bb5-a012-42c5-842e-f25c2a751f69" alt="All Models" style="width: 100%; height: auto; max-width: 100%; border-radius: 8px;" />
-</div>
-
-
 A polished, scroll-animated **3D landing page** built with Next.js, React Three Fiber, Three.js, and GSAP—designed to hit Awwwards-level polish.
 
 ---
